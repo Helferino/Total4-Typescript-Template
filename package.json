@@ -1,0 +1,24 @@
+{
+	"name": "emptytypescript",
+	"description": "Empty typescript project",
+	"version": "1.0.0",
+	"main": "index.js",
+	"dependencies": {
+		"total4": "https://github.com/totaljs/framework4.git#fd015b31eea3a5c209f93160cb0d3a44c6200c03"
+	},
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"empty",
+		"project",
+		"total.js",
+		"typescript"
+	],
+	"author": "Jakub Urban",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/node": "^14.14.41",
+		"tsc": "^1.20150623.0"
+	}
+}
