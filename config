@@ -1,4 +1,5 @@
 name                          : Empty typescript project
+typescript                    : true
 
 // Total.js API services:
 // totalapi                      : YOUR TOKEN
